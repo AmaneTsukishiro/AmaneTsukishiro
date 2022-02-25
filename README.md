@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AmaneTsukishiro/AmaneTsukishiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Mathematics
+--
++ Foundations of Mathematics
++ Topology
++ Theoretical Computer Science
+
+Programming
+--
++ C++
++ Python
++ Scheme
++ Theoretical Programming Languages
+  + Lambda Calculus
+  + Combinatory Logic
+  + Categorical Combinatory Logic
+  + WHILE/LOOP
