@@ -33,3 +33,11 @@ Programming
 Current Job
 --
 NULL
+
+Support
+--
+I use MEGA Cloud Strage for writing scientific texts and programs. MEGA supports E2E Encryption, and offers extra storages at an affordable price.
++ https://mega.io/
+
+If you would like to support my project, please sign up for MEGA through the following affiliate link.
++ https://mega.nz/aff=mCwAava20k0
