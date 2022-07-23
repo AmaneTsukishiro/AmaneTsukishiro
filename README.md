@@ -41,3 +41,6 @@ I use MEGA Cloud Strage for writing scientific texts and programs. MEGA supports
 
 If you would like to support my project, please sign up for MEGA through the following affiliate link.
 + https://mega.nz/aff=mCwAava20k0
+
+or send Amazon gift cards to me via Kampa!
++ https://kampa.me/t/kpi
