@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a freelance researcher in mathematical sciences and analytical philosophy (not exclusively), a programmer (librarian), and an audiophile.
+I am a freelance researcher, a programmer (librarian), and an audiophile.
 
 # Researches
 My research interest includes, but not exclusively, the following:
