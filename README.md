@@ -43,8 +43,10 @@ As an audiophile, I have used many (although not so many compared with popular r
 NULL
 
 # Support
+If you would like to support my project, please purchase [my textbooks](https://amntksr.booth.pm/).
+
 I use MEGA Cloud Strage for writing scientific texts and programs. MEGA supports E2E Encryption, and offers extra storages at an affordable price.
 + https://mega.io/
 
-If you would like to support my project, please sign up for MEGA through the following affiliate link.
+You can also support me by signing up for MEGA through the following affiliate link.
 + https://mega.nz/aff=mCwAava20k0
