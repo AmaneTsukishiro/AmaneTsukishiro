@@ -13,29 +13,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Mathematics
---
+I am a freelance researcher in mathematical sciences and analytical philosophy (not exclusively), a programmer (librarian), and an audiophile.
+
+# Researches
+My research interest includes, but not exclusively, the following:
 + Foundations of Mathematics
 + Topology
 + Theoretical Computer Science
++ Mathematical Economics
++ Theories of Generalised Functions
++ Analysis of Electric and Acoustic Circuits
++ Philosophy of Mathematics
++ Philosophy of Law
 
-Programming
---
+I am writing comprehensive textbooks on mathematical sciences, including [the theory of computation](https://amntksr.booth.pm/items/1536898), [nonstandard analysis](https://amntksr.booth.pm/items/1536942) and [social choice theory](https://amntksr.booth.pm/items/1593809). One aim of my writing is to introduce lesser-known but interesting fields of mathematics and related areas.
+
+# Programming
+The following are main programming languages I have experienced:
 + C++
-+ Python
 + Scheme
-+ Theoretical Programming Languages
-  + Lambda Calculus
-  + Combinatory Logic
-  + Categorical Combinatory Logic
-  + WHILE/LOOP
++ Python
 
-Current Job
---
+Since 2011, I have developed the C++ Template Library [RUIN](https://github.com/AmaneTsukishiro/Ruin) which is an etude for trying meta-programming and applying theoretical computer science. 
+
+# Audio
+As an audiophile, I have used many (although not so many compared with popular reviewers) headphones, DACs, HPAs, cables, eartips and earpads, and have reviewed some of them privately. For example, I have measured electromagnetic properties of headphone cables and theoretically analysed their acoustic properties. I have also an experience in making speakers, DACs and AMPs (both monolithic and discrete).
+
+# Current Job
 NULL
 
-Support
---
+# Support
 I use MEGA Cloud Strage for writing scientific texts and programs. MEGA supports E2E Encryption, and offers extra storages at an affordable price.
 + https://mega.io/
 
