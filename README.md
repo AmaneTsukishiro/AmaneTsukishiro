@@ -17,16 +17,16 @@ I am a freelance researcher, a programmer (librarian), and an audiophile.
 
 # Researches
 My research interest includes, but not exclusively, the following:
-+ Foundations of Mathematics
 + Topology
++ Generalised Functions
++ Foundations of Mathematics
 + Theoretical Computer Science
 + Mathematical Economics
-+ Theories of Generalised Functions
 + Analysis of Electric and Acoustic Circuits
 + Philosophy of Mathematics
 + Philosophy of Law
 
-I am writing comprehensive textbooks on mathematical sciences, including [the theory of computation](https://amntksr.booth.pm/items/1536898), [nonstandard analysis](https://amntksr.booth.pm/items/1536942) and [social choice theory](https://amntksr.booth.pm/items/1593809). One aim of my writing is to introduce lesser-known but interesting fields of mathematics and related areas.
+I am writing comprehensive textbooks on mathematical sciences, including [the theory of computation](https://amntksr.booth.pm/items/1536898), [nonstandard analysis](https://amntksr.booth.pm/items/1536942) and [social choice theory](https://amntksr.booth.pm/items/1593809). One aim of my writing is to introduce lesser-known but interesting topics in mathematics and related fields.
 
 # Programming
 The following are main programming languages I have experienced:
@@ -37,10 +37,7 @@ The following are main programming languages I have experienced:
 Since 2011, I have developed the C++ Template Library [RUIN](https://github.com/AmaneTsukishiro/Ruin) which is an etude for trying meta-programming and applying theoretical computer science. 
 
 # Audio
-As an audiophile, I have used many (although not so many compared with popular reviewers) headphones, DACs, HPAs, cables, eartips and earpads, and have reviewed some of them privately. For example, I have measured electromagnetic properties of headphone cables and theoretically analysed their acoustic properties. I have also an experience in making speakers, DACs and AMPs (both monolithic and discrete).
-
-# Current Job
-NULL
+As an audiophile, I have used many (although not so many compared with popular reviewers) headphones, DACs, HPAs, cables, eartips and earpads, and have reviewed some of them privately. For example, I have measured electromagnetic properties of headphone cables and analysed their electro-acoustic properties. I am compiling a glossary for audiophiles which includes a brief introduction to alternating circuits and opamps. I have also an experience in making speakers, DACs and AMPs (both monolithic and discrete).
 
 # Support
 If you would like to support my project, please purchase [my textbooks](https://amntksr.booth.pm/).
