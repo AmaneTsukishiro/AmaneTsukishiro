@@ -45,8 +45,12 @@ NULL
 # Support
 If you would like to support my project, please purchase [my textbooks](https://amntksr.booth.pm/).
 
-I use MEGA Cloud Strage for writing scientific texts and programs. MEGA supports E2E Encryption, and offers extra storages at an affordable price.
-+ https://mega.io/
-
-You can also support me by signing up for MEGA through the following affiliate link.
-+ https://mega.nz/aff=mCwAava20k0
+You can also support me through the following affiliate links.
++ MEGA Cloud Storage https://mega.nz/aff=mCwAava20k0
+  + End-to-End Encryption (E2EE)
+  + extra strages at an affordable price
++ Drop (formerly Massdrop) https://drop.com/?referer=P7688T
+  + mechanical keyboards: keyboard kits, key switches, key caps, desk mats, etc.
+  + audiophile products: earphones, headphones, amplifiers, cables, etc.
+  + geeky original and collaboration products
+  + massive discounts
