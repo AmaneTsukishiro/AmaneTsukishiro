@@ -37,16 +37,16 @@ The following are main programming languages I have experienced:
 Since 2011, I have developed the C++ Template Library [RUIN](https://github.com/AmaneTsukishiro/Ruin) which is an etude for trying meta-programming and applying theoretical computer science. 
 
 # Audio
-As an audiophile, I have used many (although not so many compared with popular reviewers) headphones, DACs, HPAs, cables, eartips and earpads, and have reviewed some of them privately. For example, I have measured electromagnetic properties of headphone cables and analysed their electro-acoustic properties. I am compiling a glossary for audiophiles which includes a brief introduction to alternating circuits and opamps. I have also an experience in making speakers, DACs, HPAs and power amps (both monolithic and discrete).
+As an audiophile, I have used many (although not so many compared with popular reviewers) headphones, DACs, HPAs, cables, eartips and earpads, and have reviewed some of them privately. For example, I have measured electromagnetic properties of headphone cables and analysed their electro-acoustic properties. I am compiling a [glossary for audiophiles](https://amntksr.booth.pm/items/4050750) which includes a brief introduction to alternating circuits and opamps. I have also an experience in making speakers, DACs, HPAs and power amps (both monolithic and discrete).
 
 # Support
 If you would like to support my project, please purchase [my textbooks](https://amntksr.booth.pm/).
 
 You can also support me through the following affiliate links.
-+ MEGA Cloud Storage https://mega.nz/aff=mCwAava20k0
++ [MEGA Cloud Storage](https://mega.nz/aff=mCwAava20k0)
   + End-to-End Encryption (E2EE)
   + extra strages at an affordable price
-+ Drop (formerly Massdrop) https://drop.com/?referer=P7688T
++ [Drop (formerly Massdrop)](https://drop.com/?referer=P7688T)
   + 10 USD rewards for first purchase
   + mechanical keyboards: keyboard kits, key switches, key caps, desk mats, etc.
   + audiophile products: earphones, headphones, amplifiers, cables, etc.
