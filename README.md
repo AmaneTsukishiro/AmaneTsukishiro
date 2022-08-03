@@ -47,6 +47,7 @@ You can also support me through the following affiliate links.
   + End-to-End Encryption (E2EE)
   + extra strages at an affordable price
 + Drop (formerly Massdrop) https://drop.com/?referer=P7688T
+  + 10 USD rewards for first purchase
   + mechanical keyboards: keyboard kits, key switches, key caps, desk mats, etc.
   + audiophile products: earphones, headphones, amplifiers, cables, etc.
   + geeky original and collaboration products
